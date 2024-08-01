@@ -20,4 +20,4 @@ In order to prepare our dataset for analysis, the first step was to create a 'Tr
 As highlighted by the asterisks, the average of the respondent's price estimates were statistically significant for 5/6 products (p-value < 5%), ultimately rejecting the null hypothesis that there is no significant difference between the percieved price of a product between the treatment and control group.
 
 
-Note - there are more specific results (i.e. regression model including conditional ATE, and fixed effects) in the output of the main script
+Note - there are more specific results (i.e. regression model including conditional ATE, and fixed effects) in the output of the main script.
