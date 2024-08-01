@@ -13,3 +13,7 @@ In order to prepare our dataset for analysis, the first step was to create a 'Tr
 ### Results
 
 <img width="852" alt="Screen Shot 2024-07-31 at 10 03 00 PM" src="https://github.com/user-attachments/assets/a91c0e9b-5708-411e-bcf6-e80bc744d78f">
+
+
+<img width="761" alt="Screen Shot 2024-07-31 at 10 03 31 PM" src="https://github.com/user-attachments/assets/db1810f2-bc99-4485-b46b-a0736a1ade08">
+
