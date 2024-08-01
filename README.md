@@ -9,3 +9,7 @@ I utilized Qualtrics to conduct a survey that aimed to understand how consumers 
 
 In order to prepare our dataset for analysis, the first step was to create a 'Treatment' column, a binary variable indicating if a participant was assigned to the treatment or control group. The dataset produced by the survey was extremely messy and unorganzied but after effectively transforming the data, the number of columns dropped from 62 columns to 29.
 
+
+### Results
+
+<img width="852" alt="Screen Shot 2024-07-31 at 10 03 00 PM" src="https://github.com/user-attachments/assets/a91c0e9b-5708-411e-bcf6-e80bc744d78f">
