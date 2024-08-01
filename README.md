@@ -17,4 +17,4 @@ In order to prepare our dataset for analysis, the first step was to create a 'Tr
 
 <img width="761" alt="Screen Shot 2024-07-31 at 10 03 31 PM" src="https://github.com/user-attachments/assets/db1810f2-bc99-4485-b46b-a0736a1ade08">
 
-As highlighted by the asterisks, the average of the respondent's price estimates were statistically significant for 5/6 products, ultimately rejecting the null hypothesis that there is no significant difference between the percieved price of a product between the treatment and control group.
+As highlighted by the asterisks, the average of the respondent's price estimates were statistically significant for 5/6 products (p-value < 5%), ultimately rejecting the null hypothesis that there is no significant difference between the percieved price of a product between the treatment and control group.
